@@ -1,23 +1,5 @@
-# Visual Studio
 .vs/
-
-# Build
 bin/
 obj/
-
-# User files
 *.user
 *.suo
-
-# Logs
-*.log
-
-# Rider
-.idea/
-
-# VS Code
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db

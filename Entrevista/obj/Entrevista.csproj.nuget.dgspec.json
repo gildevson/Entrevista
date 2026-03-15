@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Entrevista.csproj": {}
+    "C:\\CSharp\\Entrevista\\Entrevista\\Entrevista\\Entrevista.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Entrevista.csproj": {
+    "C:\\CSharp\\Entrevista\\Entrevista\\Entrevista\\Entrevista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Entrevista.csproj",
+        "projectUniqueName": "C:\\CSharp\\Entrevista\\Entrevista\\Entrevista\\Entrevista.csproj",
         "projectName": "Entrevista",
-        "projectPath": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Entrevista.csproj",
+        "projectPath": "C:\\CSharp\\Entrevista\\Entrevista\\Entrevista\\Entrevista.csproj",
         "packagesPath": "C:\\Users\\gilso\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\obj\\",
+        "outputPath": "C:\\CSharp\\Entrevista\\Entrevista\\Entrevista\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
