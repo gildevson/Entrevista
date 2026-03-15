@@ -38,3 +38,4 @@ C:\CSharp\ProjetosEstudos\Entrevista\Entrevista\bin\Debug\net8.0\Swashbuckle.Asp
 C:\CSharp\ProjetosEstudos\Entrevista\Entrevista\obj\Debug\net8.0\Entrevista.csproj.AssemblyReference.cache
 C:\CSharp\ProjetosEstudos\Entrevista\Entrevista\obj\Debug\net8.0\Entrevista.MvcApplicationPartsAssemblyInfo.cs
 C:\CSharp\ProjetosEstudos\Entrevista\Entrevista\obj\Debug\net8.0\Entrevista.csproj.Up2Date
+C:\CSharp\ProjetosEstudos\Entrevista\Entrevista\obj\Debug\net8.0\Entrevista.sourcelink.json

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|c:\\csharp\\projetosestudos\\entrevista\\entrevista\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|solutionrelative:entrevista\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|c:\\csharp\\projetosestudos\\entrevista\\entrevista\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|solutionrelative:entrevista\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|c:\\csharp\\projetosestudos\\entrevista\\entrevista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|solutionrelative:entrevista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|c:\\csharp\\projetosestudos\\entrevista\\entrevista\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|solutionrelative:entrevista\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|c:\\csharp\\projetosestudos\\entrevista\\entrevista\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|solutionrelative:entrevista\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|c:\\csharp\\projetosestudos\\entrevista\\entrevista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|solutionrelative:entrevista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70C6A962-69CB-4F46-8472-50DE6BE98D6F}|Entrevista\\Entrevista.csproj|c:\\csharp\\projetosestudos\\entrevista\\entrevista\\entrevista.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -26,11 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 320,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Entrevista\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Entrevista\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:12:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entrevista\\Model\\Usuario.cs",
+              "ToolTip": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Model\\Usuario.cs",
+              "RelativeToolTip": "Entrevista\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:08:18.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Entrevista\\appsettings.Development.json",
@@ -38,12 +71,11 @@
               "RelativeToolTip": "Entrevista\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-21T17:57:13.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T17:57:13.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Entrevista.http",
               "DocumentMoniker": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Entrevista.http",
               "RelativeDocumentMoniker": "Entrevista\\Entrevista.http",
@@ -51,25 +83,19 @@
               "RelativeToolTip": "Entrevista\\Entrevista.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-02-21T17:57:10.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T17:57:10.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\appsettings.json",
               "RelativeDocumentMoniker": "Entrevista\\appsettings.json",
               "ToolTip": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\appsettings.json",
               "RelativeToolTip": "Entrevista\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-21T04:51:40.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2026-02-21T04:51:40.626Z"
             },
             {
               "$type": "Document",
@@ -79,10 +105,9 @@
               "RelativeDocumentMoniker": "Entrevista\\Program.cs",
               "ToolTip": "C:\\CSharp\\ProjetosEstudos\\Entrevista\\Entrevista\\Program.cs",
               "RelativeToolTip": "Entrevista\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T04:50:50.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T04:50:50.072Z"
             }
           ]
         },

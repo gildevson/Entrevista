@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "Entrevista.Controllers.UsuarioController",
+    "Method": "CriarUsuario",
+    "RelativePath": "api/controller/CriarUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "Entrevista.Model.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Entrevista.Controllers.UsuarioController",
+    "Method": "GetUsuarios",
+    "RelativePath": "api/controller/todosusuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Entrevista.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
