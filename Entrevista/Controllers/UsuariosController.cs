@@ -9,7 +9,7 @@ namespace Entrevista.Controllers {
         private static List<Usuario> usuarios = new List<Usuario>();
 
         [HttpGet("todosusuarios")]
-        public IActionResult GetUsuarios() { //k
+        public IActionResult GetUsuarios() { //ks
             return Ok(usuarios);
 
         }
