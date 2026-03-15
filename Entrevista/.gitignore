@@ -1,5 +1,28 @@
-.vs/
+# Build
 bin/
 obj/
+
+# Visual Studio
+.vs/
 *.user
 *.suo
+
+# Logs
+*.log
+
+# Dotnet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Sistema
+Thumbs.db
+Desktop.ini
+
+# Configurações locais
+appsettings.Development.json
+appsettings.Local.json
+
+# IDE JetBrains
+.idea/
+*.iml
