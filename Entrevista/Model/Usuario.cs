@@ -4,6 +4,6 @@
         public string Nome { get; set; }
         public string Email { get; set; }
         public string CPF { get; set; }
-        public DateTime Data { get; set; } = DateTime.Now; // data hora atual
+        public DateTime Data { get; set; } = DateTime.Now; // data hora atual 
     }
 }
