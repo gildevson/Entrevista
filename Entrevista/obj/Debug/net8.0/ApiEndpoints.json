@@ -1,8 +1,29 @@
 [
   {
     "ContainingType": "Entrevista.Controllers.UsuarioController",
+    "Method": "AtualizarUsuario",
+    "RelativePath": "api/Usuarios/AtualizarUsuario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuarioAtualizado",
+        "Type": "Entrevista.Model.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Entrevista.Controllers.UsuarioController",
     "Method": "CriarUsuario",
-    "RelativePath": "api/controller/CriarUsuario",
+    "RelativePath": "api/Usuarios/CriarUsuario",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -17,8 +38,24 @@
   },
   {
     "ContainingType": "Entrevista.Controllers.UsuarioController",
+    "Method": "Delete",
+    "RelativePath": "api/Usuarios/DeleteUsuario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Entrevista.Controllers.UsuarioController",
     "Method": "GetUsuarios",
-    "RelativePath": "api/controller/todosusuarios",
+    "RelativePath": "api/Usuarios/todosUsuarios",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
