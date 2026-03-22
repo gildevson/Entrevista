@@ -80,7 +80,7 @@ namespace Entrevista.Controllers {
             }
 
             if(id == null) {
-                return NotFound("Usuario nem existe");
+                return NotFound("Usuario nem existe"); // LEGAL
             }
 
             usuarios.Remove(usuario);
